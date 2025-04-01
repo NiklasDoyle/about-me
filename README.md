@@ -2,9 +2,8 @@
 
 Uses https://github.com/gitname/react-gh-pages to host
 
-Deploy by running 
-
-### `npm run deploy -- -m "Deploy React app to GitHub Pages"`
+Deploy by deleting build folder locally (if present) and running:
+`npm run deploy -- -m "Deploy React app to GitHub Pages"`
 
 # Getting Started with Create React App
 
