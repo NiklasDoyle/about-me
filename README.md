@@ -2,6 +2,10 @@
 
 Uses https://github.com/gitname/react-gh-pages to host
 
+Deploy by running 
+
+### `npm run deploy -- -m "Deploy React app to GitHub Pages"`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
